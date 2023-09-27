@@ -1,0 +1,8 @@
+{
+    "database_path": "db.json",
+    "subreddits": [
+        "progresspics"
+    ],
+    "limit": 1000,
+    "image_dir": "images"
+}
